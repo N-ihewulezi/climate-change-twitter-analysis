@@ -15,6 +15,9 @@ two core leadership questions:
 
 1. How have public sentiment and climate change stance shifted over 14 years?
 2. Which topics and regions are driving the most divisive or aggressive discourse?
+3. How do believers and deniers differ behaviorally?
+4. Is there any relationship between temperature anomalies and online sentiment?
+5. Which topics dominated climate discussions across different years?
 
 ---
 
