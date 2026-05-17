@@ -1,0 +1,5 @@
+
+To improve performance on a 15M+ row dataset:
+Bulk inserts were optimised using temporary PostgreSQL session settings
+Indexes were added after transformation instead of before loading
+Composite indexes were created for common analytical queries
