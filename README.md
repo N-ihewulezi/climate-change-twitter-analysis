@@ -117,7 +117,7 @@ Power BI Dashboard (4 pages)
 
 ## Dashboard
 
-The interactive dashboard contains 4 pages: ![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYzNmI3M2MtM2UzYi00Yzc4LThjN2YtMzM3NWFhOGJmMzRiIiwidCI6ImYxOGJkN2FhLTg1YzQtNDJjOS1iNjdjLTUxMWZjZGY5ZjYyNSJ9)
+The interactive dashboard contains 4 pages: [Dashboard public view link](https://app.powerbi.com/view?r=eyJrIjoiNmYzNmI3M2MtM2UzYi00Yzc4LThjN2YtMzM3NWFhOGJmMzRiIiwidCI6ImYxOGJkN2FhLTg1YzQtNDJjOS1iNjdjLTUxMWZjZGY5ZjYyNSJ9)
 
 ### Page 1 — Executive Overview
 ![Executive Overview](images/executive_overview.png)
