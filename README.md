@@ -118,15 +118,23 @@ The interactive dashboard contains 4 pages:
 
 ### Page 1 — Executive Overview
 ![Executive Overview](images/executive_overview.png)
+<img width="2935" height="1615" alt="image" src="https://github.com/user-attachments/assets/33a4cf21-807e-486c-b562-19c213a89de7" />
+
 
 ### Page 2 — Topic Analysis
 ![Topic Analysis](images/topic_analysis.png)
+<img width="2820" height="1567" alt="image" src="https://github.com/user-attachments/assets/d75e2b91-f2a4-4bf7-a2f6-6bd8e825f984" />
+
 
 ### Page 3 — Regional Analysis
 ![Regional Analysis](images/regional_analysis.png)
+<img width="1865" height="1617" alt="image" src="https://github.com/user-attachments/assets/4a5096d3-4723-42b8-bd1b-e9e86ead5b0f" />
+
 
 ### Page 4 — Demographics & Aggressiveness
 ![Demographics](images/demographics_aggressiveness.png)
+<img width="2835" height="1622" alt="image" src="https://github.com/user-attachments/assets/26cae273-1eae-469f-b40d-39a1e40a56ea" />
+
 
 ---
 
@@ -195,7 +203,6 @@ https://doi.org/10.17632/mw8yd7z9wc.2
 
 ## Author
 
-**[Your Name]**  
+**Nkechi Ihewulezi**  
 Data Analyst  
-[Your LinkedIn URL]  
-[Your Email]
+[Your LinkedIn URL](https://www.linkedin.com/in/nkechi-ihewulezi/)
