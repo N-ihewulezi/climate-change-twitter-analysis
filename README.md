@@ -204,5 +204,5 @@ https://doi.org/10.17632/mw8yd7z9wc.2
 ## Author
 
 **Nkechi Ihewulezi**  
-Data Analyst  
-[Your LinkedIn URL](https://www.linkedin.com/in/nkechi-ihewulezi/)
+Data Analyst
+[LinkedIn](https://www.linkedin.com/in/nkechi-ihewulezi/)
